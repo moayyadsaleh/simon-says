@@ -12,7 +12,7 @@ CSS Styling: The game interface is styled using CSS, providing an appealing visu
 
 
 Practical Uses:
-Skill Building: Sharpen your memory and pattern recognition skills by challenging yourself with increasingly complex sequences of button presses.
+Skill Building: This sharpens the user's memory and pattern recognition skills by challenging the user with increasingly complex sequences of button presses.
 
 How to Play:
 Start the Game: Press any key to start the game. The level title will indicate the current level.
