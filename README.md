@@ -10,6 +10,7 @@ Event Handling: Event listeners are implemented to detect button clicks and key 
 Audio Feedback: Audio feedback for button presses and game events. Different sound effects are played based on the player's actions and game outcomes.
 CSS Styling: The game interface is styled using CSS, providing an appealing visual design and enhancing the overall gaming experience.
 
+
 Practical Uses:
 Skill Building: Sharpen your memory and pattern recognition skills by challenging yourself with increasingly complex sequences of button presses.
 
