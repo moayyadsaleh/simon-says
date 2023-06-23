@@ -13,5 +13,18 @@ CSS Styling: The game interface is styled using CSS, providing an appealing visu
 Practical Uses:
 Skill Building: Sharpen your memory and pattern recognition skills by challenging yourself with increasingly complex sequences of button presses.
 
+How to Play:
+Start the Game: Press any key to start the game. The level title will indicate the current level.
+
+Follow the Pattern: Watch and listen carefully as the game highlights buttons in a specific sequence. Your task is to repeat the sequence by clicking the buttons in the same order.
+
+Repeat the Sequence: After the game shows the pattern, it's your turn to reproduce it. Click the buttons in the same order as shown.
+Level Up: If you successfully repeat the sequence, the game will advance to the next level, adding one more step to the pattern.
+
+Keep Going: As you progress, the patterns become longer and more challenging. Pay close attention to the increasing complexity and try to remember the sequence accurately.
+
+Game Over: If you make a mistake and click the wrong button or fail to repeat the sequence correctly, the game is over. You can restart by pressing any key.
+
+
 ![Simon Says](https://github.com/moayyadsaleh/simon-says/assets/137034202/d91fc656-7027-46ab-bbbc-85233018945e)
 
