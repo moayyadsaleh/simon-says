@@ -12,3 +12,6 @@ CSS Styling: The game interface is styled using CSS, providing an appealing visu
 
 Practical Uses:
 Skill Building: Sharpen your memory and pattern recognition skills by challenging yourself with increasingly complex sequences of button presses.
+
+![Simon Says](https://github.com/moayyadsaleh/simon-says/assets/137034202/d91fc656-7027-46ab-bbbc-85233018945e)
+
