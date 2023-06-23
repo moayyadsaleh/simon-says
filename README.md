@@ -1,5 +1,5 @@
 # simon-says
-This repository contains a JavaScript implementation of the classic game Simon Says. The game challenges players to remember and repeat a sequence of button presses, testing their memory and pattern recognition skills.
+This repository contains a JavaScript implementation of the classic game Simon Says I developed during my bootcamp training. The game challenges players to remember and repeat a sequence of button presses, testing their memory and pattern recognition skills.
 
 Technical Highlights:
 Interactive Gameplay: Engaging and interactive gaming experience right in the browser. 
