@@ -27,5 +27,9 @@ Keep Going: As you progress, the patterns become longer and more challenging. Pa
 Game Over: If you make a mistake and click the wrong button or fail to repeat the sequence correctly, the game is over. You can restart by pressing any key.
 
 
+Live Demo: https://moayyadsaleh.github.io/simon-says/
+
+
+
 ![Simon Says](https://github.com/moayyadsaleh/simon-says/assets/137034202/d91fc656-7027-46ab-bbbc-85233018945e)
 
